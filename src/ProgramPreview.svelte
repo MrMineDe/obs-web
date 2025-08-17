@@ -116,6 +116,6 @@
     </div>
   {/if}
   <div class="column">
-    <img bind:this={program} alt="Program"/>
+    <img bind:this={program} width="100%" alt="Program"/>
   </div>
 </div>
